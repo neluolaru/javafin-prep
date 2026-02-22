@@ -9,6 +9,18 @@ Java fundamentals prep for JavaFin/Switchfully.
 ## Structure
 - `src/main/java/com/ionolaru/javafinprep/exercises` — 1 file per exercise
 
+## Exercises
+- [ ] Ex01_VariablesAndPrinting.java
+- [ ] Ex02_SimpleCalculator.java
+- [ ] Ex03_TemperatureConverter.java
+- [ ] Ex04_EvenOddAndRanges.java
+- [ ] Ex05_FizzBuzz.java
+- [ ] Ex06_SumAndAverageArray.java
+- [ ] Ex07_MinMaxArray.java
+- [ ] Ex08_PalindromeCheck.java
+- [ ] Ex09_BankAccountDemo.java
+- [ ] Ex10_TodoListConsole.java
+
 ## Run
 Build:
 mvn -q -DskipTests package
